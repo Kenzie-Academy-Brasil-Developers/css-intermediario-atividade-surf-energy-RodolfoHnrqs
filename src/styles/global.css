@@ -62,8 +62,9 @@ a {
   background-position: top;
 }
 
-.imgWave{
-  position: relative;
+.imgWave1{
+  position: absolute;
+  bottom: 250px;
 }
 
 .imgWave2{
