@@ -3,6 +3,9 @@
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 1px 1px 30px -5px #ced4da;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .card-header {
