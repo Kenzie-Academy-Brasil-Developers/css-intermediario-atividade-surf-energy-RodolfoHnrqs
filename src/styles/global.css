@@ -63,11 +63,13 @@ a {
 }
 
 .imgWave1{
+  width: 100%;
   position: absolute;
   bottom: 250px;
 }
 
 .imgWave2{
+  width: 100%;
   position: absolute;
   z-index: 1;
 }
